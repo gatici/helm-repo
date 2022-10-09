@@ -7,7 +7,7 @@ entries:
           description: Deprecate Helm chart
     apiVersion: v2
     appVersion: v4.3.1
-    created: "2022-10-09T11:45:15.577189616Z"
+    created: "2022-10-09T12:07:53.672421706Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -28,4 +28,4 @@ entries:
     urls:
     - https://gatici.github.io/helm-repo/powerdns-5.0.0.tgz
     version: 5.0.0
-generated: "2022-10-09T11:45:15.560478248Z"
+generated: "2022-10-09T12:07:53.657062861Z"
